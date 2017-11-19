@@ -1,1 +1,1 @@
-# vue-mini2-app
+# vue-mini-app2
